@@ -3,7 +3,7 @@
 Decryption and Encryption of text files using the Caesar Cipher algorithm. I'm just a student 👨‍🎓, so this is a small personal project, not a professional tool. 
 
 ## Overview
-This Python script allows you to encrypt and decrypt text files with ease. It's a simple and educational project to help you understand the Caesar Cipher algorithm.
+This Python script allows you to encrypt and decrypt text files with ease. It's a simple and educational project to help you understand the Caesar Cipher algorithm. I put it to ignore .py files because I was testing in the  same directory all  the scripts. Feel free to modify
 
 ## Features
 - **Encryption**: Encode your files.
